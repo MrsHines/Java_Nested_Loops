@@ -4,10 +4,9 @@
 - Complete the method triLet1(int num, String let).  
 - Given two parameters, triLet1 should return a String that when printed will print a triangle of the letter that is num characters tall and wide.  It should begin with one character on the first line and end with num characters on the last line. 
 - Example:  triLet1(3, A) should return A\nAA\nAAA. Which would print like when the method is called in a print statement in the main method:
+
 A
-
 AA
-
 AAA
 
 ## Program #2:
